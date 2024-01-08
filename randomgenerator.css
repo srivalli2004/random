@@ -7,7 +7,9 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #f4f4f4;
-    background: url("book.jpg");
+    background-image: url("https://wallpapercave.com/wp/nsu3cSp.jpg");
+    
+    
   }
   
   .container {
